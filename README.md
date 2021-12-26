@@ -14,5 +14,5 @@
 3. Grading Students - Grade each student based on marks obtained
 4. MaxMinProblem - Finds the maximum and minimum sum of elements present in the array for n-1 
 		    elements.
-5. SparseArrays- 
-6.		   
+5. SparseArrays- Returns the count of number of occurrence of each string from a queryset out of array of strings 
+6. LonelyInteger- Returns the element which is non-repeating in the array of integers given.
