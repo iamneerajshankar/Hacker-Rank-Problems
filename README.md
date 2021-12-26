@@ -1,4 +1,4 @@
-# Hacker-Rank-Problems Soltion using java programming. 
+# Hacker-Rank-Problems Solution using java programming. 
 
 #Prerequiste 
 - JDK version 8 or above ir required
@@ -14,4 +14,5 @@
 3. Grading Students - Grade each student based on marks obtained
 4. MaxMinProblem - Finds the maximum and minimum sum of elements present in the array for n-1 
 		    elements.
-5. SparseArrays- 		   
+5. SparseArrays- 
+6.		   

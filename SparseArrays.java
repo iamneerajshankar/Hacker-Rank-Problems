@@ -14,12 +14,18 @@ import static java.util.stream.Collectors.toList;
 class LogicSparseArrays {
 
     /*
-     * Complete the 'matchingStrings' function below.
+     * There is a collection of input strings and a collection of query strings. For each query string,
+     * determine how many times it occurs in the list of input strings. Return an array of the results.
+     * Example:
+     * strings = ['ab', 'ab', 'abc']
+     * queries = ['abc', 'abc', 'bc']
+     * output: [2,1,0]
      *
-     * The function is expected to return an INTEGER_ARRAY.
-     * The function accepts following parameters:
-     *  1. STRING_ARRAY strings
-     *  2. STRING_ARRAY queries
+     * INPUT FORMAT
+     *  The first line contains and integer n, the size of strings[] .
+        Each of the next n lines contains a string strings[i].
+        The next line contains q, the size of queries[].
+        Each of the next q lines contains a string queries[i].
      */
 
     public static List<Integer> matchingStrings(List<String> strings, List<String> queries) {
