@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+package HackerRank;
+>>>>>>> origin/UsingJava
 import java.io.*;
 import java.math.*;
 import java.security.*;
